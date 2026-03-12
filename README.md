@@ -10,6 +10,6 @@
 Here I will share projects, some of my plans for future projects, and also my journey learning different things.  
 Since I’m a person with many interests, each journey may be different, but I hope that one day it can become a guide or help for someone.
 
-As someone passionate about **cybersecurity**, interested in **game design**, and learning **computer science**, you will find a lot of that here.
+As someone passionate about **cybersecurity**, interested in **game development **, and learning **computer science**, you will find a lot of that here.
 
 I hope you enjoy exploring my work!.
