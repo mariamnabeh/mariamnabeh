@@ -1,4 +1,4 @@
-Hey, I'M Mariam Nabeh, A frist Year-Student at Nile University!
+Hey, I'm Mariam Nabeh, A frist Year-Student at Nile University!
 
 قال رسول الله ﷺ:
 
